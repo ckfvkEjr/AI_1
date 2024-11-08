@@ -2,10 +2,10 @@ import streamlit as st
 import pandas as pd
 
 # 타이틀 설정
-st.title("Streamlit 기본 예제")
+st.title("근데 이제 뭐함")
 
 # 서브타이틀
-st.subheader("기본적인 표와 HTML 메시지 생성")
+st.subheader("몰?루")
 
 # 표 데이터 생성
 data = {
