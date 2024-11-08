@@ -5,7 +5,7 @@ import pandas as pd
 st.title("근데 이제 뭐함")
 
 # 서브타이틀
-st.subheader("몰?루")
+st.subheader("진짜 모름;;")
 
 # 표 데이터 생성
 data = {
@@ -21,8 +21,8 @@ st.dataframe(df)
 
 # HTML 메시지 출력
 st.markdown("""
-    <div style="background-color: lightblue; padding: 10px;">
-        <h3>HTML 환상의 똥꼬쇼!</h3>
+    <div style="background-color: yellow; padding: 10px;">
+        <h3>환상의 똥꼬쇼!</h3>
         <p>뭔가 보여드리겠습니다!</p>
     </div>
 """, unsafe_allow_html=True)
