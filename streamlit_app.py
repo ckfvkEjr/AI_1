@@ -112,9 +112,9 @@ content_data = {
     },
     labels[2]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label3_Image1",
-            "https://via.placeholder.com/300?text=Label3_Image2",
-            "https://via.placeholder.com/300?text=Label3_Image3"
+            "https://i.ibb.co/Gp5KgvV/memed-io-output.jpg",
+            "https://i.ibb.co/Gp5KgvV/memed-io-output.jpg",
+            "https://i.ibb.co/Gp5KgvV/memed-io-output.jpg"
         ],
         'videos': [
             "https://www.youtube.com/watch?v=5tafCyiYGpU",
