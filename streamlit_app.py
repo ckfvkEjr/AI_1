@@ -117,14 +117,14 @@ content_data = {
             "https://via.placeholder.com/300?text=Label3_Image3"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+            "https://www.youtube.com/watch?v=5tafCyiYGpU",
+            "https://www.youtube.com/watch?v=unrcrAUdqH8",
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "Label 3 관련 첫 번째 텍스트 내용입니다.",
-            "Label 3 관련 두 번째 텍스트 내용입니다.",
-            "Label 3 관련 세 번째 텍스트 내용입니다."
+            "핑동",
+            "커스텀마이징 쉬운건 좋은데",
+            "똥겜인듯"
         ]
     }
 }
