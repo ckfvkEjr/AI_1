@@ -49,7 +49,7 @@ def display_right_content(labels):
     # 2nd Row - YouTube Videos based on labels
     for i, label in enumerate(labels[:3]):
         with cols[i]:
-            st.video("https://www.youtube.com/watch?v=unrcrAUdqH8", start_time=6)
+            st.video("https://www.youtube.com/watch?v=6IpEMl-dgn0", start_time=6)
             st.caption(f"유튜브: {label}")
 
     # 3rd Row - Text based on labels
