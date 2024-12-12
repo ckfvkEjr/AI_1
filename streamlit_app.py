@@ -104,53 +104,35 @@ st.markdown("""
 content_data = {
     labels[0]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label1_Image1",
-            "https://via.placeholder.com/300?text=Label1_Image2",
-            "https://via.placeholder.com/300?text=Label1_Image3"
+            "https://via.placeholder.com/300?text=Label1_Image1"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "Label 1 관련 첫 번째 텍스트 내용입니다.",
-            "Label 1 관련 두 번째 텍스트 내용입니다.",
-            "Label 1 관련 세 번째 텍스트 내용입니다."
+            "Label 1 관련 첫 번째 텍스트 내용입니다."
         ]
     },
     labels[1]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
-            "https://via.placeholder.com/300?text=Label2_Image2",
-            "https://via.placeholder.com/300?text=Label2_Image3"
+            "https://via.placeholder.com/300?text=Label2_Image1"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "Label 2 관련 첫 번째 텍스트 내용입니다.",
-            "Label 2 관련 두 번째 텍스트 내용입니다.",
-            "Label 2 관련 세 번째 텍스트 내용입니다."
+            "Label 2 관련 첫 번째 텍스트 내용입니다."
         ]
     },
     labels[2]: {
         'images': [
-            "https://i.ibb.co/Gp5KgvV/memed-io-output.jpg",
-            "https://i.ibb.co/Gp5KgvV/memed-io-output.jpg",
             "https://i.ibb.co/Gp5KgvV/memed-io-output.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=5tafCyiYGpU",
-            "https://www.youtube.com/watch?v=unrcrAUdqH8",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://www.youtube.com/watch?v=5tafCyiYGpU"
         ],
         'texts': [
-            "핑동",
-            "커스텀마이징 쉬운건 좋은데",
-            "똥겜인듯"
+            "핑동"
         ]
     }
 }
