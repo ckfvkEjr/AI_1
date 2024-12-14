@@ -139,7 +139,7 @@ if uploaded_file is not None:
     image = Image.open(uploaded_file)
     img = PILImage.create(uploaded_file)
     prediction, _, probs = learner.predict(img)
-    st.title(labels)
+    
 
     with left_column:
         display_left_content(image, prediction, probs, labels)
@@ -152,4 +152,4 @@ if uploaded_file is not None:
             'texts': ["기본 텍스트"] * 3
         })
         display_right_content(prediction, data)
-
+        st.title(data)
